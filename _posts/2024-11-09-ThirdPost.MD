@@ -26,7 +26,9 @@ build
 
 
 > Repo -> settings -> pages -> build & deployment에서 source를 이미지처럼 Github Action으로 바꿔주자. 그러면 이미지에는 안나오지만 jekyll.yml파일을 추가하라고 뜬다. 이를 추가해주자
-### 두번째 에러
+
+
+## 두번째 에러
 그런데 github action에서 이런 에러가 떳다. 이 에러도 간단하게 해결가능하다.
 ``` shell
 build

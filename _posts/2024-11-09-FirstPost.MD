@@ -46,6 +46,18 @@ $ vi ~/.zshrc
 // source로 해당 내용 적용
 $ source ~/.zshrc
 ```
-이제 정상적으로 gem명령어를 실행할 수 있다.   
+이제 gem명령어를 실행할 수 있다.   
 jekyll을 설치해주자.
-## 
+## jekyll&bundler install
+jekyll&bundler 설치는 간단하다.
+```shell
+$ gem install jekyll  
+$ gem install bundler
+
+// 설치가 끝나면  -v 명령어로 버전확인 및 설치가 제대로 됐는지 학인하자
+$ jekyll -v
+$ bundler -v 
+```
+## What's Next
+이제 블로그 개설에 필요한 프로그램 세팅은 끝났으니 블로그를 만들 차례다.   
+[GitHub Blog 세팅하기 (2)](https://sersoc.github.io/posts/SecondPost/)

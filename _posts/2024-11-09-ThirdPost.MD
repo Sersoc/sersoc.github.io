@@ -37,8 +37,9 @@ Process completed with exit code 1.
 위에서 추가한 jekyll.yml 파일에서 Build With jekyll 위에 npm 의존성을 추가해주자 그럼 깔끔하게 해결이 된다.
 
 ## 나만의 Github Blog 개설 완료
-![결과창](https://github.com/Sersoc/sersoc.github.io/blob/main/assets/img/postingImage/PostBlog/Fixerr.png?raw=true)
+![결과창](https://github.com/Sersoc/sersoc.github.io/blob/main/assets/img/postingImage/PostBlog/Complete_Page.png?raw=true)
 
 이제 나만의 블로그가 개설되었다. 중간중간에 빼먹은 부분이 있을지도 모르겠지만, 일단 Test용으로 만들었던 블로그도 제대로 동작하는걸 보니 문제는 없을것 같다. 
 
+참고로 _config.yml을 이용해 블로그를 꾸밀 수 있으니 잘 찾아보며 꾸며보자   
 **-The End-**

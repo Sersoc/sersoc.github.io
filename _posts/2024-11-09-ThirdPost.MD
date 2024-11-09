@@ -25,7 +25,7 @@ build
 ![Setting](https://github.com/Sersoc/sersoc.github.io/blob/main/assets/img/postingImage/PostBlog/PageSetting.png?raw=true)
 
 
-> Repo -> settings -> pages -> build & deployment에서 source를 이미지처럼 Github Action으로 바꿔주자. 그러면 이미지에는 안나오지만 jekyll.yml파일을 추가하라고 뜬다. 이를 추가해주자
+> Repo -> settings -> pages -> build & deployment에서 source를 이미지처럼 Github Action으로 바꿔주자. 그러면 이미지에는 안나오지만 jekyll.yml파일을 추가하라고 뜬다. 이를 추가해주자   
 
 
 ## 두번째 에러

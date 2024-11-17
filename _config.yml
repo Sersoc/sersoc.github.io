@@ -25,6 +25,10 @@ description: >- # used by seo meta and the atom feed
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://Sersoc.github.io"
 
+# Build settings
+show_excerpts: true # 이 줄을 추가
+paginate: 5 # 한 페이지에 표시할 게시물 수
+
 github:
   username: Sersoc # change to your GitHub username
 

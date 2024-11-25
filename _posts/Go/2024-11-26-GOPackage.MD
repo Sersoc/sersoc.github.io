@@ -1,6 +1,6 @@
 ---
 title: GoRoutine
-date: 2024-11-21 00:07:10 +09:00
+date: 2024-11-26 00:33:10 +09:00
 categories: [Language, GoLang]
 tags:
   [

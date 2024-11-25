@@ -1,5 +1,5 @@
 ---
-title: GoRoutine
+title: Go패키지 배포하기
 date: 2024-11-26 00:33:10 +09:00
 categories: [Language, GoLang]
 tags:
